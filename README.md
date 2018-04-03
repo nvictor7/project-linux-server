@@ -190,3 +190,15 @@ Password: **grader**
 ### Load Application
 
 - `sudo service apache2 restart` loads application
+
+### References & Credits
+
+- Digital Ocean
+
+- Udacity Forum
+
+- Stackoverflow
+
+- Ask Ubuntu
+
+- PostgreSQL on Ubuntu
