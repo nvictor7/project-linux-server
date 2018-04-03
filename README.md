@@ -50,7 +50,7 @@ Password: **grader**
 
 - `chmod 644 .ssh/authorized_keys` 
 
-- Now login as grader using `ssh -i ~/.ssh/[private_key_filename] grader@18.219.158.15`
+- Now login as grader using `ssh -i ~/.ssh/udacity_project_key grader@18.219.158.15`
 
 ### Disable Root login
 
