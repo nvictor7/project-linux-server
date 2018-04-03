@@ -60,6 +60,10 @@ Password: **grader**
 
 - `sudo service ssh restart`
 
+### Change port '22' to '2200'
+
+- `sudo nano /etc/ssh/sshd_config` opens the file, then change port number from `22` to `2200`
+
 ### Firewall Configurations
 
 - `sudo ufw default deny incoming` blocks all incoming connection
