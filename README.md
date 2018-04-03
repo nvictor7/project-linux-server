@@ -154,8 +154,8 @@ Password: **grader**
             Order allow,deny
             Allow from all
         </Directory>
-        Alias /static /var/www/catalogApp/static
-        <Directory /var/www/catalogApp/static/>
+        Alias /static /var/www/catalogApp/catalogApp/static
+        <Directory /var/www/catalogApp/catalogApp/static/>
             Order allow,deny
             Allow from all
         </Directory>
