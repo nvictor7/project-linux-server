@@ -1,4 +1,6 @@
 # Description
+A goal is to user a baseline installation of Linux server to host web applications. The process involves securing the server of a number of attach vectors, install and configure a database server, and deploy using [existing application](https://github.com/nvictor7/project-item-catalog).   
+Server Information:
 - Public IP address: 18.219.158.15
 - SSH port: 2200
 
@@ -187,4 +189,4 @@ Password: **grader**
 
 ### Load Application
 
-`sudo service apache2 restart` loads application. In case of errors, `sudo tail /var/log/apache2/error.log` views errors
+- `sudo service apache2 restart` loads application
